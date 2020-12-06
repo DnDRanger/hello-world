@@ -1,2 +1,3 @@
 # hello-world
-My first project!
+Now I'm a tacohead who loves programming. Awesome!
+
